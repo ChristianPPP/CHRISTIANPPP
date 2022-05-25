@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **ChristianPPP/CHRISTIANPPP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: on facebook 
 - 😄 Pronouns: I´m working in ESFOT labs
 - ⚡ Fun fact: I love IA but a don´t want to create a robot
--->
+
